@@ -16,4 +16,11 @@ These examples based on short [video tutorials](https://www.youtube.com/playlist
 11. [Project 11](code/svelte-tutorial-11)
 12. [Project 12](code/svelte-tutorial-12)
 13. [Project 13](code/svelte-tutorial-13)
-
+14. [Project 14](code/svelte-tutorial-14)
+15. [Project 15](code/svelte-tutorial-15)
+16. [Project 16](code/svelte-tutorial-16)
+17. [Project 17](code/svelte-tutorial-17)
+18. [Project 18](code/svelte-tutorial-18)
+19. [Project 19](code/svelte-tutorial-19)
+20. [Project 20](code/svelte-tutorial-20)
+21. [Project 21](code/svelte-tutorial-21)
