@@ -1,0 +1,23 @@
+<style>
+	div{
+		height: 200px;
+		width: 200px;
+		margin: 20px;
+
+		display: flex;
+		align-items: center;
+		justify-content: center;
+
+		background-color: blueviolet;
+		color: white;
+		border-radius: 100%;
+
+		font-size: 2rem;
+	}
+</style>
+
+<script>
+export	let text = 'Fun fun fun';
+</script>
+
+<div>{text}</div>
